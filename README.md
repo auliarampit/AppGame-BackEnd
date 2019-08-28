@@ -11,7 +11,7 @@
 3. MySql
 
 ## How to run the app ?
-1. Clone or download first this repository with `$git clone https://github.com/auliarampit/backend-bookmanagemen.git`
+1. Clone or download first this repository with `https://github.com/auliarampit/AppGame-BackEnd.git`
 2. Open the project in your favorite text editor
 3. Open your terminal or cmd and type `npm install`
 4. Create Environment Variable
